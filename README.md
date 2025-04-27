@@ -35,11 +35,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: HARITHA RAMESH
 RegisterNumber: 212223100011 
 */
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: A.LAHARI
-RegisterNumber:  212223230111
-*/
 
 import pandas as pd
 data = pd.read_csv("Employee.csv")
